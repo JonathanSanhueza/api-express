@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YeisonKirax/api-express.git"
+    "url": "git+https://github.com/JonathanSanhueza/api-express"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YeisonKirax/api-express/issues"
+    "url": "https://github.com/JonathanSanhueza/api-express/issues"
   },
-  "homepage": "https://github.com/YeisonKirax/api-express#readme",
+  "homepage": "https://github.com/JonathanSanhueza/api-express#readme",
   "dependencies": {
     "await-catcher": "^1.1.2",
     "cors": "^2.8.5",
